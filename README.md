@@ -13,6 +13,7 @@ Scrape all provider profile information from "https://www.stfrancismedicalcenter
 DOWNLOADER_MIDDLEWARES = {
     ###### The priority of 560 is important, because we want this middleware to kick in just before the scrapy built-in `RetryMiddleware`.
     'scrapy_cloudflare_middleware.middlewares.CloudFlareMiddleware': 560
+
 }
 
 DUPEFILTER_CLASS = "scrapy.dupefilters.BaseDupeFilter"
