@@ -21,8 +21,8 @@ DUPEFILTER_CLASS = "scrapy.dupefilters.BaseDupeFilter"
 Github link:- https://github.com/anas-bhuiyan/stf?fbclid=IwAR2dR7GJs-04JihAesh6Q5bs_CHU9epwAp_vj0dIhUYex8X85pn0ea5a7a0
 
 # Upgraded by:- Mohit Anand Srivastava
-#### Github link: -https://github.com/Mohit63880/St.-Francis-Medical-Center-All-Providers-Scrapy
-#### Facebook:- https://www.facebook.com/mohitanand.srivastava/
-#### Instagram:-https://www.instagram.com/mohit_anand_srivastava/
-#### Hacker Rank:-https://www.hackerrank.com/mohitracer1234
+Github link: -https://github.com/Mohit63880/St.-Francis-Medical-Center-All-Providers-Scrapy
+Facebook:- https://www.facebook.com/mohitanand.srivastava/
+Instagram:-https://www.instagram.com/mohit_anand_srivastava/
+Hacker Rank:-https://www.hackerrank.com/mohitracer1234
 
