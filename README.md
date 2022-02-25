@@ -11,7 +11,7 @@ Scrape all provider profile information from "https://www.stfrancismedicalcenter
 
 2. write those code on your settings.py file
 DOWNLOADER_MIDDLEWARES = {
-    # The priority of 560 is important, because we want this middleware to kick in just before the scrapy built-in `RetryMiddleware`.
+    ###### The priority of 560 is important, because we want this middleware to kick in just before the scrapy built-in `RetryMiddleware`.
     'scrapy_cloudflare_middleware.middlewares.CloudFlareMiddleware': 560
 	}
 
